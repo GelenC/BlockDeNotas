@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlockDeNotas</string>
+    <string name="notas">Notas</string>
+    <string name="agregar">+</string>
+    <string name="titulo">Titulo: </string>
+    <string name="contenido">contenido</string>
+</resources>
