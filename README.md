@@ -1,23 +1,30 @@
-Descripción:
+## Block de Notas
 
-Este es un Bloc de Notas simple para dispositivos Android, desarrollado utilizando Kotlin y Android Studio. 
-Permite a los usuarios crear, editar, guardar y eliminar notas. Las notas se almacenan localmente utilizando archivos JSON, 
-lo que permite mantener la información luego de cerrar la aplicación.
+### Descripción:
+Esta aplicación es un Bloc de Notas simple para dispositivos Android, desarrollada en Kotlin con Android Studio.
+Permite a los usuarios gestionar notas de manera eficiente, con opciones para crear, editar, guardar y eliminar notas. La aplicación utiliza Room (SQLite) para el almacenamiento local, garantizando la persistencia de datos incluso al cerrar la aplicación.
 
-Características:
+## Características:
+-Crear, editar y eliminar notas con facilidad.
 
--Crear, editar y eliminar notas.
--Almacenamiento local utilizando archivos JSON.
--Interfaz de usuario sencilla e intuitiva.
--Lista de notas desplegada en un RecyclerView.
--Funcionalidad para agregar notas de forma rápida y eficiente.
+-Almacenamiento local confiable mediante Room.
 
-Tecnologías y Herramientas:
+-Interfaz de usuario moderna e intuitiva.
+
+-Visualización dinámica de las notas en un RecyclerView.
+
+-Soporte para búsquedas rápidas y filtrado de notas.
+
+## Tecnologías y Herramientas:
 
 -Lenguaje: Kotlin
+
 -IDE: Android Studio
+
 -Arquitectura: MVC (Modelo-Vista-Controlador)
+
 -Almacenamiento: Archivos JSON
+
 -UI: RecyclerView, Material Design Components
 
 ![block](https://github.com/user-attachments/assets/338ab837-4a29-4447-b14b-73970653f8ae)
