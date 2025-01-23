@@ -17,14 +17,14 @@ Permite a los usuarios gestionar notas de manera eficiente, con opciones para cr
 
 ## Tecnologías y Herramientas:
 
--Lenguaje: Kotlin
+-**Lenguaje:** Kotlin
 
--IDE: Android Studio
+-**IDE:** Android Studio
 
--Arquitectura: MVC (Modelo-Vista-Controlador)
+-**Arquitectura:** MVC (Modelo-Vista-Controlador)
 
--Almacenamiento: Archivos JSON
+-**Almacenamiento:** Archivos JSON
 
--UI: RecyclerView, Material Design Components
+-**UI:** RecyclerView, Material Design Components
 
 ![block](https://github.com/user-attachments/assets/338ab837-4a29-4447-b14b-73970653f8ae)
